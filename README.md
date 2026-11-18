@@ -28,4 +28,4 @@ The trap tests if the model can:
 
 ## 📫 Hire Me
 I am available for AI training, evaluation, and red-teaming tasks in the hardware, PCB, and electrical domains. 
-[Link to your LinkedIn]
+Email: njeruhlewis@gmail.com
